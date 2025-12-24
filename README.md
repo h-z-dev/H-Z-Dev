@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/imgs/logo.png" width="120" alt="H-Z Dev Logo"/>
+<img src="logo.png" width="120" alt="H-Z Dev Logo"/>
 
 # H-Z Dev
 
