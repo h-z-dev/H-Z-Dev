@@ -62,6 +62,7 @@ My work focuses on:
 ### 🎮 Games
 - **X-O Game Online**  
   2D Tic-Tac-Toe game with smooth animations and score tracking.
+  with In-game Chat System
 
 ### 🌐 Dynamic Web Apps
 - **HappyPet** – Pet services website with modern UI/UX  
@@ -83,7 +84,8 @@ My work focuses on:
 **Languages & Tools**
 - HTML5 / CSS3 / JavaScript  
 - PHP / MySQL  
-- Python  
+- Python
+- flutter / dart
 - Git & GitHub  
 
 **Design**
@@ -104,8 +106,8 @@ My work focuses on:
 ## 🔗 Connect With Me
 
 - 🌍 Portfolio: *(coming soon)*  
-- 💼 LinkedIn: *(add your link)*  
-- 🎥 TikTok: *(add your link)*  
+- 💼 LinkedIn:[ https://www.linkedin.com/in/h-z-dev-b393123a0 ] 
+  
 
 ---
 
