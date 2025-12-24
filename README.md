@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://imgur.com/MxdzUgm" width="120" alt="H-Z Dev Logo"/>
+<img src="https://imgur.com/a/PqFeRet" width="120" alt="H-Z Dev Logo"/>
 
 # H-Z Dev
 
