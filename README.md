@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" width="120" alt="H-Z Dev Logo"/>
+<img src="[https://www.creativefabrica.com/wp-content/uploads/2019/02/Monogram-HZ-Logo-Design-by-Greenlines-Studios-580x387.jpg]" width="120" alt="H-Z Dev Logo"/>
 
 # H-Z Dev
 
