@@ -105,7 +105,7 @@ My work focuses on:
 
 ## 🔗 Connect With Me
 
-- 🌍 Portfolio: *(coming soon)*  
+- 🌍 Portfolio: [https://hzdev.42web.io]  
 - 💼 LinkedIn:[ https://www.linkedin.com/in/h-z-dev-b393123a0 ] 
   
 
