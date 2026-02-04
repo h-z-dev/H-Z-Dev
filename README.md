@@ -102,16 +102,13 @@ My work focuses on:
 ---
 
 ## 🔗 Connect With Me
-<div>
-  - 🌍 Portfolio: [https://hzdev.42web.io]  
--  LinkedIn:[ https://www.linkedin.com/in/h-z-dev-b393123a0 ]
+
+-🌍 Portfolio: [https://hzdev.42web.io]  
+- LinkedIn:[ https://www.linkedin.com/in/h-z-dev-b393123a0 ]
 - tiktok:[https://www.tiktok.com/@h.z.dev]
-- <a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Grow studio - Flaticon</a> instagram:[https://www.instagram.com/hzdev1/]
+- instagram:[https://www.instagram.com/hzdev1/]
 - facebook:[https://www.facebook.com/profile.php?id=61587669981634]
-</div>
 
-
-  
 
 ---
 
